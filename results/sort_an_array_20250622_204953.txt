@@ -1,0 +1,5 @@
+# Function: Sort an array
+# Generated on: 2025-06-22 20:49:53
+
+def sort_an_array(x):
+    """Sort an array.

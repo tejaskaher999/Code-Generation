@@ -1,0 +1,5 @@
+# Function: Sum Of Two Number
+# Generated on: 2025-06-23 20:18:18
+
+def sum_of_two_number(x):
+    return x + x

@@ -1,0 +1,9 @@
+# Function: generate factorial function
+# Generated on: 2025-06-23 20:19:29
+
+def generate_factorial(x):
+    # Calculate factorial
+    result = 1
+    for i in range(1,x+1):
+        result = result * i
+    return result

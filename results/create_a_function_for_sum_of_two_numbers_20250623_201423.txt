@@ -1,0 +1,8 @@
+# Function: Create a function for sum of two numbers
+# Generated on: 2025-06-23 20:14:23
+
+def a___sum_of_two_numbers(x):
+    if (x < 0):
+        return -1
+    else:
+        return x + a___sum_of_two_numbers(x - 1)

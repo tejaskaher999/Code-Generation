@@ -1,0 +1,7 @@
+# Function: Generate factorial function
+# Generated on: 2025-06-23 20:18:49
+
+def generate_factorial(x):
+    if x <= 0:
+        return 1
+    return x * generate_factorial(x - 1)
